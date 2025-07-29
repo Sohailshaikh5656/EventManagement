@@ -16,16 +16,16 @@ Configure your MySQL database and update .env file with credentials.
 📬 API Endpoints
 ➕ POST Methods
 Endpoint	Description
-http://127.0.0.1:3300/v1/v1/user/event	Create a new event
-http://127.0.0.1:3300/v1/v1/user/signup	User registration
-http://127.0.0.1:3300/v1/v1/user/eventRegister	Register for an event
+http://127.0.0.1:3300/v1/user/event	Create a new event
+http://127.0.0.1:3300/v1/user/signup	User registration
+http://127.0.0.1:3300/v1/user/eventRegister	Register for an event
 
 📥 GET Methods
 Endpoint	Description
-http://127.0.0.1:3300//v1/user/event	Fetch all events
-http://127.0.0.1:3300//v1/user/cancel	Cancel event registration
-http://127.0.0.1:3300//v1/user/upCommingEvent	Get upcoming events
-http://127.0.0.1:3300//v1/user/eventState/2	Events based on state ID
+http://127.0.0.1:3300/v1/user/event	Fetch all events
+http://127.0.0.1:3300/v1/user/cancel	Cancel event registration
+http://127.0.0.1:3300/v1/user/upCommingEvent	Get upcoming events
+http://127.0.0.1:3300/v1/user/eventState/2	Events based on state ID
 
 📦 EventManagement
 ├── 📁 controller
