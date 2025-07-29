@@ -40,7 +40,7 @@ http://127.0.0.1:3300//v1/user/eventState/2	Events based on state ID
 
 📸 Screenshots
 Screenshots are available in the screenshot/ folder for visual reference.
-![Image1](./screenshot/img.png)
+![Image1](screenshot/img.png)
 ![Image2](./screenshot/img1.png)
 ![Image3](./screenshot/img2.png)
 
