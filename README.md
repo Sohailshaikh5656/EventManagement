@@ -38,11 +38,14 @@ http://127.0.0.1:3300//v1/user/eventState/2	Events based on state ID
 ├── app.js
 └── package.json
 
-📸 Screenshots
-Screenshots are available in the screenshot/ folder for visual reference.
-<img src="screenshot/img.png" alt="Screenshot" width="500" />
-![Screenshot 2](screenshot/img1.png)
-![Screenshot 3](screenshot/img2.png)
+# 📸 Screenshots
+
+Screenshots are available in the `screenshot/` folder for visual reference.
+
+<img src="screenshot/img.png" alt="Screenshot 1" width="500" />
+<img src="screenshot/img1.png" alt="Screenshot 2" width="500" />
+<img src="screenshot/img2.png" alt="Screenshot 3" width="500" />
+
 
 
 🛠️ Tech Stack
