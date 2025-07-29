@@ -49,7 +49,7 @@ Validation: Joi
 
 Screenshots are available in the `screenshot/` folder for visual reference.
 
-<img src="screenshot/img.png" alt="Screenshot 1" width="500" />
-<img src="screenshot/img1.png" alt="Screenshot 2" width="500" />
-<img src="screenshot/img2.png" alt="Screenshot 3" width="500" />
+<img src="screenshot/img.png" alt="Screenshot 1" width="1200" />
+<img src="screenshot/img1.png" alt="Screenshot 2" width="1200" />
+<img src="screenshot/img2.png" alt="Screenshot 3" width="1200" />
 
