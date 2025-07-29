@@ -40,9 +40,9 @@ http://127.0.0.1:3300//v1/user/eventState/2	Events based on state ID
 
 📸 Screenshots
 Screenshots are available in the screenshot/ folder for visual reference.
-<img src="https://raw.githubusercontent.com/Sohailshaikh5656/EventManagement/main/screenshot/img.png" alt="Screenshot" width="500"/>
-![Image2](./screenshot/img1.png)
-![Image3](./screenshot/img2.png)
+![Screenshot 1](screenshot/img.png)
+![Screenshot 2](screenshot/img1.png)
+![Screenshot 3](screenshot/img2.png)
 
 
 🛠️ Tech Stack
