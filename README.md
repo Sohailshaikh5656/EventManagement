@@ -38,6 +38,13 @@ http://127.0.0.1:3300//v1/user/eventState/2	Events based on state ID
 ├── app.js
 └── package.json
 
+
+
+🛠️ Tech Stack
+Backend: Node.js, Express
+Database: MySQL
+Validation: Joi
+ ```
 # 📸 Screenshots
 
 Screenshots are available in the `screenshot/` folder for visual reference.
@@ -45,11 +52,4 @@ Screenshots are available in the `screenshot/` folder for visual reference.
 <img src="screenshot/img.png" alt="Screenshot 1" width="500" />
 <img src="screenshot/img1.png" alt="Screenshot 2" width="500" />
 <img src="screenshot/img2.png" alt="Screenshot 3" width="500" />
-
-
-
-🛠️ Tech Stack
-Backend: Node.js, Express
-Database: MySQL
-Validation: Joi
 
